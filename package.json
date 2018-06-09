@@ -1,0 +1,30 @@
+{
+  "name": "aws-serverless-hapi",
+  "version": "0.0.1",
+  "description": "Hapi integration with AWS lambda",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"nothing here yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danieladams456/aws-serverless-hapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "aws",
+    "lambda",
+    "serverless"
+  ],
+  "author": "Daniel Adams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieladams456/aws-serverless-hapi/issues"
+  },
+  "homepage": "https://github.com/danieladams456/aws-serverless-hapi#readme",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.6",
+    "@types/hapi": "^17.0.12",
+    "@types/node": "^10.3.2"
+  }
+}
